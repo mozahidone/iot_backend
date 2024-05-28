@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 28 11:51:29 BDT 2024
+f8f4013ee8fe5d53e4c3de9cb3193a6620a765d6@default-nexus-https\://10.0.1.30/nexus/repository/maven-public/.lastUpdated=1716875489680
+https\://10.0.1.30/nexus/repository/maven-public/.error=Could not transfer artifact kr.motd.maven\:os-maven-plugin\:pom\:1.7.0 from/to nexus (https\://10.0.1.30/nexus/repository/maven-public/)\: Transfer failed for https\://10.0.1.30/nexus/repository/maven-public/kr/motd/maven/os-maven-plugin/1.7.0/os-maven-plugin-1.7.0.pom 502 Bad Gateway
